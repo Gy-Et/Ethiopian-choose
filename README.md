@@ -1,8 +1,3 @@
-git add .
-git commit -m "Initial commit for dating app"
-git branch -M main
-git remote add origin https://github.com/yourusername/dating-app.git
-git push -u origin main
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,3 +47,8 @@ git push -u origin main
     <script src="js/app.js"></script>
 </body>
 </html>
+git add .
+git commit -m "Initial commit for dating app"
+git branch -M main
+git remote add origin https://github.com/yourusername/dating-app.git
+git push -u origin main
